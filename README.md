@@ -21,6 +21,9 @@ A mobile app for managing personal budgets, created as part of our final year pr
 <img src="https://github.com/user-attachments/assets/ac94f592-62cd-45f5-8d17-feec703c2858" width="300" height="600">
 <img src="https://github.com/user-attachments/assets/f6bd2efe-2649-43b5-bd72-21c5c6992f09" width="300" height="600">
 <img src="https://github.com/user-attachments/assets/fdb98f95-2043-4c18-9845-6cc6e1d009fd" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/243bcf96-c77e-43c5-abe5-4611519853b0" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/b46efefb-0375-4661-ad4d-537e51449e36" width="300" height="600">
+
 
 
 
